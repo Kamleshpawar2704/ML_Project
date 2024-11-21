@@ -32,3 +32,6 @@ if st.button("Predict Default"):
         st.write("Prediction: **No Default**")
     else:
         st.write("Prediction: **Default**")
+
+st.title("Design by Mr. Kartik Shelke")
+st.title("kartikshelke2201@gmail.com")
